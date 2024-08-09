@@ -3,3 +3,5 @@ function somaNumero(numero1, numero2) {
   return soma;
 }
 
+somaNumero();
+
