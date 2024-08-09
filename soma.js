@@ -3,5 +3,5 @@ function somaNumero(numero1, numero2) {
   return soma;
 }
 
-somaNumero();
+somaNumero(34, 24);
 
